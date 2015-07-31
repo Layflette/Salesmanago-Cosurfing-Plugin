@@ -84,13 +84,3 @@ COSURFING_NET_PLUGIN.admin =
     }
 }
 
-COSURFING_NET_PLUGIN.admin.setClientId("eeaztded5f45hfn0");
-COSURFING_NET_PLUGIN.admin.setApiSecret("dfhic8sohbeie1smkn5kwh7a692vpbvo");
-COSURFING_NET_PLUGIN.admin.setOwnerEmail("info@cosurfing.pl");
-COSURFING_NET_PLUGIN.admin.setEndPoint("http://app3.salesmanago.pl/api");
-COSURFING_NET_PLUGIN.admin.sendAuthorisationRequest();
-
-COSURFING_NET_PLUGIN.newContact.setEmail("pasha@cs.pl");
-COSURFING_NET_PLUGIN.newContact.setName("pasha");
-COSURFING_NET_PLUGIN.newContact.sendNewContact();
-
